@@ -4,20 +4,17 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 - http://www.espressocoding.co.uk/
 
-## Starting Out
-> 4-6 Years
+## Starting Out (4-6 Years)
 
 - http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions (aka. “make a sandwich” game)
 
-## Key Stage 1
-> 5-7 Years
+## Key Stage 1 (5-7 Years)
 
 - http://www.helloruby.com/
 - http://www.gethopscotch.com/
 - http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker
 
-## Key Stage 2
-> 7-11 Years
+## Key Stage 2 (7-11 Years)
 
 - https://www.codeclub.org.uk/
 - http://scratch.mit.edu/
