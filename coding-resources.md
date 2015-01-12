@@ -17,6 +17,7 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 ## Reading
 
+- http://www.codingclub.co.uk/blog.php#2
 - http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html
 
 
