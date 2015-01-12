@@ -12,12 +12,12 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 - http://www.helloruby.com/
 - http://www.gethopscotch.com/
-- http://scratch.mit.edu/
 - http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker
 
 ## Key Stage 2 (7-11 Years)
 
 - https://www.codeclub.org.uk/
+- http://scratch.mit.edu/
 - https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins
 
 ## Key Stage 3+
