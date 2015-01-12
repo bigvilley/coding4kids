@@ -24,6 +24,7 @@ This is just a dumping ground for links that I come across and ideas that I come
 ## Key Stage 3+
 
 - http://www.greenfoot.org/overview
+- http://kidsruby.com/
 
 ## Reading
 
