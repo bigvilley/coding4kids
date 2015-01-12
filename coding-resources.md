@@ -1,4 +1,4 @@
-This is just a dumping ground for links that I come across and ideas that I come up with (or that I've stolen from others) so that nothing it lost.
+This is just a dumping ground for links that I come across and ideas that I come up with (or that I've stolen from others) for teaching coding to children of primary school age. I'm making this list public so that others can contribute and we can all benefit.
 
 ## For Teachers
 
