@@ -18,6 +18,7 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 - https://www.codeclub.org.uk/
 - http://scratch.mit.edu/
+- http://shaunsgameacademy.co.uk/ (a series of video tutorials and Scratch projects)
 - https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins
 
 ## Key Stage 3+
@@ -28,5 +29,6 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 - http://www.codingclub.co.uk/blog.php#2
 - http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html
+- http://www.theschoolrun.com/coding-kids
 
 
