@@ -38,3 +38,8 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 - [Have we got it all horribly wrong?](http://www.codingclub.co.uk/blog.php#2) - A very frank article discussing the merits of introducing KS1 children to coding, questioning whether it's too young and potentially detrimental.
 - [Today We Made a Computer Game](http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html) - My account of introducing my own children (who are 3 and 5) to programming one wet and windy afternoon.
+
+## Teaching Ideas
+
+- Setup a website where children can upload their creations to share with classmates. It would be sort of like a mini app-store for the school.
+- Run after-school workshops where the children work in pairs to create app/games using Hopscotch/Scratch/Technobabble.
