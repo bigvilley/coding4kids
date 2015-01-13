@@ -22,7 +22,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Hour of Code](http://code.org/learn) - Much like Scratch and Hopscotch, using a blocks based structure, but with a series of short exercises to introduce concepts, using well known characters.
 - [Shaun the Sheep’s Game Academy](http://shaunsgameacademy.co.uk/) - A series of video tutorials and Scratch projects.
 
-## Key Stage 3+
+## Key Stage 3+ (11 Years+)
 
 - [JavaScript for Kids](http://www.nostarch.com/javascriptforkids) _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
 - [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
