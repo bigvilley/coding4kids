@@ -14,18 +14,20 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 ## Key Stage 2 (7-11 Years)
 
 - [Code Monkey Island](http://codemonkeyplanet.com/) - Another board game for basic programming concepts. Combines aspects such as conditionals, loops, assignment, and strategic thinking.
-- [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - An online app by the BBC for creating simple games by plugging together different actions and rules.
+- [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - An online app by the _BBC_ for creating simple games by plugging together different actions and rules.
 - [Code Club](https://www.codeclub.org.uk/) - A nationwide network of volunteer-led after school coding clubs for children.
-- [Scratch](http://scratch.mit.edu/) - A online-only app, much like Hopscotch but far more in-depth in the scope and possibilities.
-- [Hour of Code](http://code.org/learn) - Much like Scratch and Hopscotch, using a blocks based structure, but with a series of short exercises to introduce concepts, using well known characters.
-- [Shaun the Sheep’s Game Academy](http://shaunsgameacademy.co.uk/) - A series of video tutorials and Scratch projects.
+- [Scratch](http://scratch.mit.edu/) - A online-only app, much like _Hopscotch_ but far more in-depth in the scope and possibilities.
+- [Hour of Code](http://code.org/learn) - Much like _Scratch_ and _Hopscotch_, using a blocks based structure, but with a series of short exercises to introduce concepts gradually, using well known characters.
+- [Shaun the Sheep’s Game Academy](http://shaunsgameacademy.co.uk/) - A series of video tutorials and _Scratch_ projects.
 
 ## Key Stage 3+ (11 Years+)
 
+- [Codea](http://twolivesleft.com/Codea/) - An iPad app for making any app you can think of. Some of the qualities of Hopscotch and Scratch, but at a much higher level, introducing text-based programming using the _Lua_ language.
+- [Cargo-Bot](http://twolivesleft.com/CargoBot/) - An iPad game in which you program a series of robots to move crates to solve puzzles. Created using _Codea_.
 - [JavaScript for Kids](http://www.nostarch.com/javascriptforkids) _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
 - [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
-- [Greenfoot](ttp://www.greenfoot.org/overview)
-- [Kids Ruby](http://kidsruby.com/)
+- [Greenfoot](ttp://www.greenfoot.org/overview) - An interactive _Java_ development environment for simple two-dimensional applications.
+- [Kids Ruby](http://kidsruby.com/) - A basic _Ruby_ development environment for creating simple command-line applications.
 
 ## For Teachers
 
