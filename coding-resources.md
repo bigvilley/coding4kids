@@ -20,10 +20,10 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 ## Key Stage 3+
 
+- [JavaScript for Kids](http://www.nostarch.com/javascriptforkids) _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
+- [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
 - [Greenfoot](ttp://www.greenfoot.org/overview)
 - [Kids Ruby](http://kidsruby.com/)
-- [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
-- [JavaScript for Kids](http://www.nostarch.com/javascriptforkids) _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
 
 ## General Reading
 
