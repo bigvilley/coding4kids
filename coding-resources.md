@@ -8,21 +8,21 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 - [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich.
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
-- [Hopscotch](http://www.gethopscotch.com/) - 
-- [Run Marco!](https://www.allcancode.com/) -
+- [Hopscotch](http://www.gethopscotch.com/) - An iPad-only app for creating simple games and apps by dragging and dropping colourful blocks and images.
+- [Run Marco!](https://www.allcancode.com/) - An adventure game in which you must give an intrepid explorer sequences of instructions to reach crystals. It offers a nice step-by-step mode where you can run the instructions one at a time to work out where you went wrong.
 
 ## Key Stage 2 (7-11 Years)
 
-- [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - 
-- [Code Club](https://www.codeclub.org.uk/) -
-- [Scratch](http://scratch.mit.edu/) - 
+- [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - An online app by the BBC for creating simple games by plugging together different actions and rules.
+- [Code Club](https://www.codeclub.org.uk/) - A nationwide network of volunteer-led after school coding clubs for children.
+- [Scratch](http://scratch.mit.edu/) - A online-only app, much like Hopscotch but far more in-depth in the scope and possibilities.
 - [Shaun the Sheep’s Game Academy](http://shaunsgameacademy.co.uk/) - A series of video tutorials and Scratch projects.
 
 ## Key Stage 3+
 
-- [Greenfoot](ttp://www.greenfoot.org/overview) -
-- [Kids Ruby](http://kidsruby.com/) -
-- [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins) –
+- [Greenfoot](ttp://www.greenfoot.org/overview)
+- [Kids Ruby](http://kidsruby.com/)
+- [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
 
 ## General Reading
 
