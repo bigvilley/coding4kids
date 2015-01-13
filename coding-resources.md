@@ -4,7 +4,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## For Teachers
 
-- [Espresso Coding](http://www.espressocoding.co.uk/) - Entire courses and materials for teaching coding to all ages.
+- [Espresso Coding](http://www.espressocoding.co.uk/) - An entire course (including supporting materials) for teaching coding to all ages. Requires a paid subscription.
 
 ## Key Stage 1 (5-7 Years)
 
