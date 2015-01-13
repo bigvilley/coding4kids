@@ -18,7 +18,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - An online app by the BBC for creating simple games by plugging together different actions and rules.
 - [Code Club](https://www.codeclub.org.uk/) - A nationwide network of volunteer-led after school coding clubs for children.
 - [Scratch](http://scratch.mit.edu/) - A online-only app, much like Hopscotch but far more in-depth in the scope and possibilities.
-- [Code](http://code.org/learn) - Much like Scratch and Hopscotch, using a blocks based structure, but with a series of short exercises to introduce concepts, using well known characters.
+- [Hour of Code](http://code.org/learn) - Much like Scratch and Hopscotch, using a blocks based structure, but with a series of short exercises to introduce concepts, using well known characters.
 - [Shaun the Sheep’s Game Academy](http://shaunsgameacademy.co.uk/) - A series of video tutorials and Scratch projects.
 
 ## Key Stage 3+
