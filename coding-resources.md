@@ -4,7 +4,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## Key Stage 1 (5-7 Years)
 
-- [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich.
+- [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich. This introduces the idea of computers following instructions.
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
 - [Hopscotch](http://www.gethopscotch.com/) - An iPad-only app for creating simple games and apps by dragging and dropping colourful blocks and images.
 - [ScratchJr](http://www.scratchjr.org/) - A simplified, trimmed down version of _Scratch_. Only on iPad.
