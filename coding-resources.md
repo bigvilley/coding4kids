@@ -1,4 +1,6 @@
-This is just a dumping ground for links that I come across and ideas that I come up with (or that I've stolen from others) for teaching coding to children of primary school age. I'm making this list public so that others can contribute and we can all benefit.
+# Coding Resources for Kids
+
+A curated list of resources for teaching coding to children, from ages 5 upwards. Suggest links in the comments below.
 
 ## For Teachers
 
