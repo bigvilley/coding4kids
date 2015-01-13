@@ -12,6 +12,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
 - [Hopscotch](http://www.gethopscotch.com/) - An iPad-only app for creating simple games and apps by dragging and dropping colourful blocks and images.
 - [Run Marco!](https://www.allcancode.com/) - An adventure game in which you must give an intrepid explorer sequences of instructions to reach crystals. It offers a nice step-by-step mode where you can run the instructions one at a time to work out where you went wrong.
+- [Lego](http://www.lego.com/) - Any Lego set could be used to introduce the concept of following a set of step-by-step instructions like a computer does.
 
 ## Key Stage 2 (7-11 Years)
 
