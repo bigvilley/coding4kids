@@ -9,8 +9,8 @@ This is just a dumping ground for links that I come across and ideas that I come
 - “Make a Sandwich” game
   - http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions
 - Hello Ruby
+  - Various activities, including making a remote control to control your friends.
   - http://www.helloruby.com/
-  - Making a remote control: http://www.helloruby.com/play/4
 - http://www.gethopscotch.com/
 - http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker
 - Run Marco!
