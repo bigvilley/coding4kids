@@ -6,8 +6,10 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 ## Key Stage 1 (5-7 Years)
 
-- “Make a Sandwich” game
-  - http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions
+### “Make a Sandwich” game
+- http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions
+
+### Hello Ruby
 - Hello Ruby
   - Various activities, including making a remote control to control your friends.
   - http://www.helloruby.com/
