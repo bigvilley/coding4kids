@@ -6,9 +6,9 @@ This is just a dumping ground for links that I come across and ideas that I come
 
 ## Key Stage 1 (5-7 Years)
 
-### “Make a Sandwich” game
-> http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions
-  A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich.
+### [http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions](“Make a Sandwich” game)
+
+> A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich.
 
 ### Hello Ruby
 - Hello Ruby
