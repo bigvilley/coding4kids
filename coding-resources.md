@@ -13,6 +13,7 @@ This is just a dumping ground for links that I come across and ideas that I come
 - http://www.helloruby.com/
 - http://www.gethopscotch.com/
 - http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker
+- http://ukedchat.com/2015/01/10/eduapp-run-marco-adventurous-coding-for-android-or-ipad/
 
 ## Key Stage 2 (7-11 Years)
 
