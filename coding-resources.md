@@ -2,10 +2,6 @@
 
 A curated list of resources for teaching coding to children, from ages 5 upwards. Suggest links in the comments below.
 
-## For Teachers
-
-- [Espresso Coding](http://www.espressocoding.co.uk/) - An entire course (including supporting materials) for teaching coding to all ages. Requires a paid subscription.
-
 ## Key Stage 1 (5-7 Years)
 
 - [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich.
@@ -30,6 +26,10 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
 - [Greenfoot](ttp://www.greenfoot.org/overview)
 - [Kids Ruby](http://kidsruby.com/)
+
+## For Teachers
+
+- [Espresso Coding](http://www.espressocoding.co.uk/) - An entire course (including supporting materials) for teaching coding to all ages. Requires a paid subscription.
 
 ## General Reading
 
