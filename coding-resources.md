@@ -14,7 +14,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## Key Stage 2 (7-11 Years)
 
-- [Code Monkey Island](http://codemonkeyplanet.com/) - Another board game for basic programming concepts. Combines aspects such as conditionals, loops, assignment, and strategic thinking.
+- [Code Monkey Island](http://codemonkeyplanet.com/) - Another board game for basic programming concepts. Combines aspects such as conditionals, loops, assignment, and strategic thinking. (Appears to be US-only, but waiting to find out if they ship to the UK).
 - [Technobabble](http://www.bbc.co.uk/cbbc/games/make-it-technobabble-game-maker) - An online app by the _BBC_ for creating simple games by plugging together different actions and rules.
 - [Code Club](https://www.codeclub.org.uk/) - A nationwide network of volunteer-led after school coding clubs for children.
 - [Scratch](http://scratch.mit.edu/) - A online-only app, much like _Hopscotch_ but far more in-depth in the scope and possibilities.
