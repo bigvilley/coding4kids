@@ -42,5 +42,6 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## Teaching Ideas
 
-- Setup a website where children can upload their creations to share with classmates. It would be sort of like a mini app-store for the school.
-- Run after-school workshops where the children work in pairs to create app/games using Hopscotch/Scratch/Technobabble.
+- _School App Store_: Setup a website where children can upload their creations to share with classmates. It would be sort of like a mini app-store for the school. They could even charge a small fee or ask for donations and give any money raised to charity.
+- _Blindfolded Obstacle Course_: Mark out a simple course using cones. Then one pupil is blindfolded and the rest of the class has to give instructions to that pupil to help them through the course.
+- _After-school Workshops_: Children can come along with ideas for things they'd like to make and get some one-on-one time to help them figure out.
