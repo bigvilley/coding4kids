@@ -10,8 +10,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [ScratchJr](http://www.scratchjr.org/) - A simplified, trimmed down version of _Scratch_. Only on iPad.
 - [Run Marco!](https://www.allcancode.com/) - An adventure game in which you must give an intrepid explorer sequences of instructions to reach crystals. It offers a nice step-by-step mode where you can run the instructions one at a time to work out where you went wrong.
 - [Lego](http://www.lego.com/) - Any Lego set could be used to introduce the concept of following a set of step-by-step instructions like a computer does.
-- [Robot Turtles](http://www.robotturtles.com/) - Board game for kids to learn basic programming concepts. Focuses on sequencing.
-  - [Buy on Amazon](http://www.amazon.co.uk/ThinkFun-Robot-Turtles-Board-Game/dp/B00HN2BXUY).
+- [Robot Turtles](http://www.robotturtles.com/) - Board game for kids to learn basic programming concepts. Focuses on sequencing. [Purchase on Amazon](http://www.amazon.co.uk/ThinkFun-Robot-Turtles-Board-Game/dp/B00HN2BXUY).
 
 ## Key Stage 2 (7-11 Years)
 
