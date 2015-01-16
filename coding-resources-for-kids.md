@@ -2,10 +2,15 @@
 
 A curated list of resources for teaching coding to children, from ages 5 upwards. Suggest links in the comments below.
 
-## Key Stage 1 (5-7 Years)
+## Early Years
 
 - [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich. This introduces the idea of computers following instructions.
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
+- [Bee-Bot Floor Robot](http://www.tts-group.co.uk/shops/tts/Products/PD1723538/Bee-Bot-Floor-Robot/) -
+  - [Bee-Bot App](https://itunes.apple.com/gb/app/bee-bot/id500131639) -
+
+## Key Stage 1 (5-7 Years)
+
 - [Hopscotch](http://www.gethopscotch.com/) - An iPad app for creating simple games and apps by dragging and dropping colourful blocks and images.
   - [Basic Edition](https://itunes.apple.com/gb/app/hopscotch-programming-for/id617098629) - Free, but there are in-app purchases to acquire new characters.
   - [School Edition](https://itunes.apple.com/gb/app/hopscotch-school-edition-programming/id901455276) - Costs £7.99, but has all characters unlocked.
