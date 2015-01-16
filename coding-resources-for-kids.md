@@ -38,6 +38,9 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
 - [Greenfoot](ttp://www.greenfoot.org/overview) - An interactive _Java_ development environment for simple two-dimensional applications.
 - [Kids Ruby](http://kidsruby.com/) - A basic _Ruby_ development environment for creating simple command-line applications.
+- Making Games with Processing.js -
+  - [Part 1](http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/basic.html) -
+  - [Part 2](http://processingjs.nihongoresources.com/test/PjsGameEngine/docs/tutorial/mario.html) - 
 
 ## For Teachers
 
