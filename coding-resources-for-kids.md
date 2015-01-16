@@ -6,8 +6,9 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 - [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich. This introduces the idea of computers following instructions.
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
-- [Hopscotch](http://www.gethopscotch.com/) - An iPad app for creating simple games and apps by dragging and dropping colourful blocks and images. The [basic version](https://itunes.apple.com/gb/app/hopscotch-programming-for/id617098629) is free, but there are in-app purchases to acquire new characters. Alternatively, there is a [school edition](https://itunes.apple.com/gb/app/hopscotch-school-edition-programming/id901455276) which costs £7.99 but has all characters unlocked.
-  - 
+- [Hopscotch](http://www.gethopscotch.com/) - An iPad app for creating simple games and apps by dragging and dropping colourful blocks and images.
+  - [Basic Edition](https://itunes.apple.com/gb/app/hopscotch-programming-for/id617098629) - Free, but there are in-app purchases to acquire new characters.
+  - [School Edition](https://itunes.apple.com/gb/app/hopscotch-school-edition-programming/id901455276) - Costs £7.99, but has all characters unlocked.
 - [ScratchJr](http://www.scratchjr.org/) - A simplified, trimmed down version of _Scratch_. Only on iPad.
 - [Run Marco!](https://www.allcancode.com/) - An adventure game in which you must give an intrepid explorer sequences of instructions to reach crystals. It offers a nice step-by-step mode where you can run the instructions one at a time to work out where you went wrong.
 - [Lego](http://www.lego.com/) - Any Lego set could be used to introduce the concept of following a set of step-by-step instructions like a computer does.
