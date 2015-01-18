@@ -4,7 +4,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## Early Years
 
-- [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich. This introduces the idea of computers following instructions.
+- [“Make a Sandwich” game](http://blog.craigs.me/2014-11-18-comfort-zone.html#following-instructions) - A simple game where the class has to instruct a computer (the teacher) to make a ham sandwich. This introduces the idea of computers following instructions. Here's [another example](https://www.youtube.com/watch?v=leBEFaVHllE).
 - [Hello Ruby](http://www.helloruby.com/) - Various activities, including making a remote control to control your friends.
 - [Bee-Bot Floor Robot](http://www.tts-group.co.uk/shops/tts/Products/PD1723538/Bee-Bot-Floor-Robot/) -
   - [Bee-Bot App](https://itunes.apple.com/gb/app/bee-bot/id500131639) -
