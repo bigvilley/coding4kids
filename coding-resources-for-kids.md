@@ -46,6 +46,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## General Reading
 
+- [Programming Literacy: Why Every Kid Should Learn To Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91) - 
 - [Have we got it all horribly wrong?](http://www.codingclub.co.uk/blog.php#2) - A very frank article discussing the merits of introducing KS1 children to coding, questioning whether it's too young and potentially detrimental.
 - [Today We Made a Computer Game](http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html) - My account of introducing my own children (who are 3 and 5) to programming one wet and windy afternoon.
 
