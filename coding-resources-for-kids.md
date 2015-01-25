@@ -34,7 +34,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 ## Key Stage 3+ (11 Years+)
 
 - [Codea](http://twolivesleft.com/Codea/) - An iPad app for making any app you can think of. Some of the qualities of Hopscotch and Scratch, but at a much higher level, introducing text-based programming using the _Lua_ language.
-- [JavaScript for Kids](http://www.nostarch.com/javascriptforkids) _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
+- [JavaScript for Kids](http://www.nostarch.com/javascriptforkids), _by Nick Morgan_ - an introduction to JavaScript that teaches programming essentials through patient, step-by-step examples paired with funny illustrations.
 - [Learn to Program with Minecraft Plugins ](https://pragprog.com/book/ahmine2/learn-to-program-with-minecraft-plugins)
 - [Greenfoot](ttp://www.greenfoot.org/overview) - An interactive _Java_ development environment for simple two-dimensional applications.
 - [Kids Ruby](http://kidsruby.com/) - A basic _Ruby_ development environment for creating simple command-line applications.
@@ -46,7 +46,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## General Reading
 
-- [Programming Literacy: Why Every Kid Should Learn To Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91) - A extremely eloquent piece about how we're standing at a junction, looming towards a future where a lack of programming literacy has devastating consequences. By [Eric Elliott](https://medium.com/@_ericelliott).
+- [Programming Literacy: Why Every Kid Should Learn To Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91), by _Eric Elliott_ - A extremely eloquent piece about how we're standing at a junction, looming towards a future where a lack of programming literacy has devastating consequences.
 - [Have we got it all horribly wrong?](http://www.codingclub.co.uk/blog.php#2) - A very frank article discussing the merits of introducing KS1 children to coding, questioning whether it's too young and potentially detrimental.
 - [Today We Made a Computer Game](http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html) - My account of introducing my own children (who are 3 and 5) to programming one wet and windy afternoon.
 
