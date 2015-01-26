@@ -42,7 +42,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## For Teachers
 
-- [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/) - A curated a collection of resources for use by those training teachers to deliver the new primary computing curriculum
+- [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/) - A curated collection of resources for use by those training teachers to deliver the new primary computing curriculum
 - [Espresso Coding](http://www.espressocoding.co.uk/) - An entire course (including supporting materials) for teaching coding to all ages. Requires a paid subscription.
 
 ## General Reading
