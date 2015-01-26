@@ -42,13 +42,15 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 
 ## For Teachers
 
+- [Computing ITT & CPD](https://sites.google.com/site/primaryictitt/) - A curated a collection of resources for use by those training teachers to deliver the new primary computing curriculum
 - [Espresso Coding](http://www.espressocoding.co.uk/) - An entire course (including supporting materials) for teaching coding to all ages. Requires a paid subscription.
 
 ## General Reading
 
 - [Programming Literacy: Why Every Kid Should Learn To Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91), by _Eric Elliott_ - A extremely eloquent piece about how we're standing at a junction, looming towards a future where a lack of programming literacy has devastating consequences.
-- [Have we got it all horribly wrong?](http://www.codingclub.co.uk/blog.php#2) - A very frank article discussing the merits of introducing KS1 children to coding, questioning whether it's too young and potentially detrimental.
+- [Have We Got It All Horribly Wrong?](http://www.codingclub.co.uk/blog.php#2) - A very frank article discussing the merits of introducing KS1 children to coding, questioning whether it's too young and potentially detrimental.
 - [Today We Made a Computer Game](http://blog.craigs.me/2015-01-10-today-we-made-a-computer-game.html) - My account of introducing my own children (who are 3 and 5) to programming one wet and windy afternoon.
+- [Tips On Making Sure All Staff Are Ready To Teach Coding](http://ukedchat.com/2014/02/27/session-191-coding-coding-coding-tips-on-making-sure-all-staff-are-ready-to-teach-coding/) - Notes from a #UKEdChat twitter session where teachers share their concerns and experiences regarding teaching coding.
 
 ## Teaching Ideas
 
