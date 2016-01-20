@@ -15,6 +15,9 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - [Hopscotch](http://www.gethopscotch.com/) - An iPad app for creating simple games and apps by dragging and dropping colourful blocks and images.
   - [Basic Edition](https://itunes.apple.com/gb/app/hopscotch-programming-for/id617098629) - Free, but there are in-app purchases to acquire new characters.
   - [School Edition](https://itunes.apple.com/gb/app/hopscotch-school-edition-programming/id901455276) - Costs £7.99, but has all characters unlocked.
+- [Makey Makey](http://www.makeymakey.com/) – An invention kit that turns everyday objects into computer inputs.
+  - [Kickstarter project](https://www.kickstarter.com/projects/joylabz/makey-makey-an-invention-kit-for-everyone)
+  - [Quickstart guide](https://learn.sparkfun.com/tutorials/makey-makey-quickstart-guide)
 - [ScratchJr](http://www.scratchjr.org/) - A simplified, trimmed down version of _Scratch_. Only on iPad.
 - [Run Marco!](https://www.allcancode.com/) - An adventure game in which you must give an intrepid explorer sequences of instructions to reach crystals. It offers a nice step-by-step mode where you can run the instructions one at a time to work out where you went wrong.
 - [Lego](http://www.lego.com/) - Any Lego set could be used to introduce the concept of following a set of step-by-step instructions like a computer does.
