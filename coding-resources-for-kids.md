@@ -62,3 +62,10 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - _School App Store_: Setup a website where children can upload their creations to share with classmates. It would be sort of like a mini app-store for the school. They could even charge a small fee or ask for donations and give any money raised to charity.
 - _Blindfolded Obstacle Course_: Mark out a simple course using cones. Then one pupil is blindfolded and the rest of the class has to give instructions to that pupil to help them through the course.
 - _After-school Workshops_: Children can come along with ideas for things they'd like to make and get some one-on-one time to help them figure out.
+
+Some quick resources to mention:
+
+"A is for Array" -- young kids book, the alphabet with computer/programming terms. love this one! http://www.aisforarray.com/
+"A Robot Story" -- young kids book for counting to ten in binary. http://arobotstory.com/
+"Robot Turtles" -- board game for kids learning programming. http://www.amazon.com/Think-Fun-1900-Robot-Turtles/dp/B00HN2BXUY/
+"Code Monkey Island" -- ditto. http://codemonkeyplanet.com/
