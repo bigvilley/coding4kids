@@ -63,7 +63,7 @@ A curated list of resources for teaching coding to children, from ages 5 upwards
 - _Blindfolded Obstacle Course_: Mark out a simple course using cones. Then one pupil is blindfolded and the rest of the class has to give instructions to that pupil to help them through the course.
 - _After-school Workshops_: Children can come along with ideas for things they'd like to make and get some one-on-one time to help them figure out.
 
-Some quick resources to mention:
+## Some quick resources to mention:
 
 "A is for Array" -- young kids book, the alphabet with computer/programming terms. love this one! http://www.aisforarray.com/
 "A Robot Story" -- young kids book for counting to ten in binary. http://arobotstory.com/
